@@ -1,3 +1,6 @@
+/*
+Example 1.4: print the process ID
+*/
 #include "apue.h"
 
 int main(void) {

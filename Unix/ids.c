@@ -1,3 +1,6 @@
+/*
+Example 1.7: print user ID and group ID
+*/
 #include "apue.h"
 
 int main(void) {

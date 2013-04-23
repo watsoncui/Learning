@@ -1,3 +1,6 @@
+/*
+Example 1.2: Copy standard input to standard output
+*/
 #include "apue.h"
 
 #define BUFFSIZE 4096

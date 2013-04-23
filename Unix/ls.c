@@ -1,3 +1,6 @@
+/*
+Example 1.1: List all the files in a directory
+*/
 #include "apue.h"
 #include <dirent.h>
 

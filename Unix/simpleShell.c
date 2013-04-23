@@ -1,3 +1,6 @@
+/*
+Example 1.5: read commands from standard input and execute them
+*/
 #include "apue.h"
 #include <sys/wait.h>
 

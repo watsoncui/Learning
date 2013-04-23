@@ -1,3 +1,6 @@
+/*
+Example 1.3: Copy standard input to standard output, using standard I/O
+*/
 #include "apue.h"
 
 int main(void) {
