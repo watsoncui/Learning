@@ -1,3 +1,6 @@
+/*
+This is the common header file which contains all header files needed.
+*/
 #ifndef _APUE_H
 #define _APUE_H
 
